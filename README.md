@@ -1,6 +1,7 @@
 # python-api-challenge
 
-How's the weather up there? Preparing for the weather is key to planning the perfect vacation and we seek to provide you the answers!
+## How's the weather up there? 
+Preparing for the weather is key to planning the perfect vacation and we seek to provide you the answers!
 
 ![Heatmap](VacationPy/heatmap_screenshot.png)
 
